@@ -1,2 +1,5 @@
 .idea
 .next
+
+# Project exclude paths
+/node_modules/
